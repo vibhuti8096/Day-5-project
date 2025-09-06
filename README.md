@@ -1,4 +1,10 @@
-# Day-5-project
+# 🌟 Day-5 Project: Responsive Web Page with Interactivity
+
+Welcome to the Day-5 project! This mini web development challenge focuses on building a responsive, interactive webpage using **HTML* and **JavaScript**. The goal is to practice layout structuring, styling, and basic DOM manipulation while maintaining clean code and professional documentation.
+
+## 📌 Notes
+
+This project is part of a structured learning path focused on frontend development and portfolio building. Feel free to fork, clone, and customize it for your own practice!
 
 
 
